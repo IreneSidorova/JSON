@@ -2,7 +2,7 @@
 "person":{
   "name":"Irene Sidorova",
 "age":26,
-"cat":true,
+"pet":"cat",
 "salary":600
 }
 }
