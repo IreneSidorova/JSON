@@ -1,6 +1,10 @@
-Lucky Number Slevin
-Fringe
-Noodles
-Spring
-Sweden
+{
+  "preferences":[
+  "movie":"Lucky Number Slevin",
+"series":"Fringe",
+"food":"Noodles",
+"season":"Spring"
+"country":"Sweden"
+    ]
+}
 
