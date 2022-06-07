@@ -1,6 +1,9 @@
-
-Irene Sidorova
-26
-1 cat
-600$
+{
+"person":{
+  "name":"Irene Sidorova",
+"age":26,
+"cat":true,
+"salary":600
+}
+}
 
